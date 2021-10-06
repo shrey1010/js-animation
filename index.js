@@ -1,8 +1,9 @@
+
 var id =null;
 spaceship();
 function spaceship() {
     var elem2= document.querySelector('.img-space');
-    var pos2 = 0;
+    var pos2 = 100;
     clearInterval(id);
     id = setInterval(frame, 10);
     function frame() {

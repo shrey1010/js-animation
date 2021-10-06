@@ -10,7 +10,7 @@ body{
     width: 100vw;
     height: 100vh;
     background: url(./img/clean\ space.jpg);
-    background-size: cover;
+    background-size: cover;   
 }
 .space img{
     width: 40%;
